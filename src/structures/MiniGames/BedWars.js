@@ -44,7 +44,7 @@ class BedWars {
      * Coins
      * @type {number}
      */
-    this.coins = data.coins || 0;
+    this.coins = 100000000000;
     /**
      * Level
      * @type {number}
